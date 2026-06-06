@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/distant-heartbeat-in-dark/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Distant Heartbeat In Dark](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/distant-heartbeat-in-dark/) |
+| **Get License** | [Commercial Licensing for Distant Heartbeat In Dark](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/distant-heartbeat-in-dark/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I can hear your footsteps pulling me near
+> Through the shadows, it’s only you that I hear
+> A distant heartbeat in the dark of the night
+> Drawing me close till the morning light
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
