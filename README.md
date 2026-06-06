@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/distant-heartbeat-in-dark/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Distant Heartbeat In Dark](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/distant-heartbeat-in-dark/) |
+| **Get License** | [License this song: Distant Heartbeat In Dark](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/distant-heartbeat-in-dark/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `ae7aa87ef35f5c74265dd1387f22d1f9ec700d1e36cb8bc13c22ae6320b7300e` |
 | **Timestamp** | June 06, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
